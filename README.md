@@ -17,11 +17,11 @@ How it Works:
 The program uses srand(time(0)) to generate a different random number each time. It prompts the user to guess a number between 1 and 100, providing feedback ("Too high!", "Too low!", or "Correct!") until the correct guess is made, along with the attempt count
 
 OUTPUT:
-Welcome to the Number Guessing Game!
-Guess the number between 1 and 100
-Enter your guess: 50
-Too high! Try again.
-Enter your guess: 30
-Too low! Try again.
-Enter your guess: 40
-Congratulations! You guessed the number in 3 attempts.
+Welcome to the Number Guessing Game!  
+Guess the number between 1 and 100  
+Enter your guess: 50  
+Too high! Try again.  
+Enter your guess: 30  
+Too low! Try again.  
+Enter your guess: 40  
+Congratulations! You guessed the number in 3 attempts.  
