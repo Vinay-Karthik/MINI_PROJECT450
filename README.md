@@ -8,7 +8,7 @@ After each guess, the program provides feedback on whether the guess is too high
 The program counts the number of attempts and displays it once the user guesses the correct number.
 
 Requirements:  
-To run the program, you need:
+To run the program, you need:  
 1. A C compiler (e.g., GCC)
 2. A terminal or command-line interface to run the executable
 
